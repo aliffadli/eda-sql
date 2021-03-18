@@ -13,5 +13,5 @@ To see what is the purpose of each script, read the explanation below:
 3. [categorical_unstructured.sql](https://github.com/aliffadli/eda-sql/blob/main/categorical_unstructured.sql). This script is used to deal with inconsistencies in case, spacing, and delimiters; using a temporary table to recode messy categorical data to standardized values you can count and aggregate; and then, extract new variables from unstructured text. 
 4. [dates_times.sql](https://github.com/aliffadli/eda-sql/blob/main/dates_times.sql). This script is used for analyzing dates and times of the databases. 
 
-## Thank you!
+# Thank you!
 
