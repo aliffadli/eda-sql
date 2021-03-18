@@ -1,5 +1,5 @@
-# eda-sql
-## Hello!
+# Hello!
+
 This project is part of the course I attended on [DataCamp](https://learn.datacamp.com/courses/exploratory-data-analysis-in-sql).
 This is an exploratory data analysis project with SQL. This project contains a table such as: stack overflow question counts, fortune 500 companies, and evanston 311 help requests. Most of the table I mentioned before, have a relationship with each other. Therefore creating an Entity Relationship Diagram (ERD). This ERD will play a part of my analysis, mainly when I joining some particular table. Below is the ERD of this project to help you understand of my query.
 
